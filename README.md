@@ -1,3 +1,3 @@
 # Gaurav-Demo
 this is my first repo
-author gaurav kumar
+author gaurav armaan
